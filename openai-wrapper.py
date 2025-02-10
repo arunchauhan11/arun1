@@ -1,3 +1,4 @@
+openai = OpenAIWrapper(api_key="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")
 import os
 import requests
 import json
